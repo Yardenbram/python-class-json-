@@ -1,0 +1,34 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Python 101",
+            "author": "John Doe",
+            "ratings": [
+                5,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Learn JavaScript",
+            "author": "Jane Smith",
+            "ratings": [
+                4,
+                5,
+                3
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Mastering Python",
+            "author": "Alice Brown",
+            "ratings": [
+                5,
+                4,
+                5
+            ]
+        }
+    ]
+}
